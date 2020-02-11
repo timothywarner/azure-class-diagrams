@@ -1,9 +1,13 @@
 # Microsoft Azure Classroom Reference Diagrams
 
-These diagrams aren't the prettiest, and as-is they represent redundant, terrible Azure topologies.
+The purpose of these diagrams is to help you demonstrate several Azure products in a confined space.
 
-However, for the purpose of demonstrating many Azure products in a confind space, they are great!
+I give you permission to use or adapt these diagrams for your own professional purposes. Please feel free to submit changes or new diagrams to this repository via pull request.
 
-I give you permission to use/adapt these diagrams to your heart's content. For attribution, simply link to [**timw.info**](https://timw.info). Thanks! -Tim Warner
+For attribution, simply link to my website ([**techtrainertim.com**](https://techtrainertim.com)) or my Twitter account ([@TechTrainerTim](https://twitter.com/techtrainertim)). Thanks! -Tim Warner
+
+## Formats
+
+To edit my diagrams, you'll need [Microsoft Visio](https://products.office.com/en-us/visio/flowchart-software) or an application that can handle .vsdx drawing files.
 
 ![azure-iaas-ref-architecture](azure-iaas-ref-arch.png)
